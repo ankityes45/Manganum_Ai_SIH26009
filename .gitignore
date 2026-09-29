@@ -1,0 +1,12 @@
+sihenv/
+__pycache__/
+outputs/
+.ipynb_checkpoints/
+.vscode/
+.env
+sihenv/
+__pycache__/
+outputs/
+.ipynb_checkpoints/
+.vscode/
+.env
